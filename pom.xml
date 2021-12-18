@@ -25,7 +25,7 @@
         <allure-maven.version>2.10.0</allure-maven.version>
         <maven-surfine-plugin.version>2.21.0</maven-surfine-plugin.version>
         <log4j-core.version>2.13.3</log4j-core.version>
-        <log4j-api.version>2.13.3</log4j-api.version>
+        <log4j-api.version>2.17.0</log4j-api.version>
         <log4j-slf4j-impl.version>2.13.3</log4j-slf4j-impl.version>
     </properties>
 
